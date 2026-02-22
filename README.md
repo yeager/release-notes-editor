@@ -1,10 +1,10 @@
 # Release Notes Editor
 
-Redigera release notes med mallar och översättningsstöd.
+Release notes editor with templates and translation support.
 
-GTK4/Adwaita · Python · v0.1.1 · 30 översättningsbara strängar
+GTK4/Adwaita · Python · v0.1.1 · 30 translatable strings
 
-## Installation
+## Install
 
 ### Ubuntu / Debian
 ```bash
@@ -12,10 +12,10 @@ sudo apt install release-notes-editor
 ```
 Repo: [yeager/debian-repo](https://github.com/yeager/debian-repo)
 
-## Översättning
+## Translation
 
-Översätts via [Transifex](https://app.transifex.com/danielnylander/release-notes-editor/). 11 språk.
+Translated via [Transifex](https://app.transifex.com/danielnylander/release-notes-editor/). 11 languages.
 
-## Licens
+## License
 
 GPL-3.0-or-later · Daniel Nylander <daniel@danielnylander.se>
