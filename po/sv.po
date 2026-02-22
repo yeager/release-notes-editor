@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the release-notes-editor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: release-notes-editor 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: 2026-02-22 07:14+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305206/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/release_notes_editor/main.py:84 src/release_notes_editor/main.py:93
+#: src/release_notes_editor/main.py:352
+msgid "Release Notes Editor"
+msgstr "Redigerare för versionsanteckningar"
+
+#: src/release_notes_editor/main.py:98
+msgid "New from template"
+msgstr "Ny från mall"
+
+#: src/release_notes_editor/main.py:102
+msgid "Open"
+msgstr "Öppna"
+
+#: src/release_notes_editor/main.py:106
+msgid "Save"
+msgstr "Spara"
+
+#: src/release_notes_editor/main.py:112 src/release_notes_editor/main.py:307
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/release_notes_editor/main.py:113
+msgid "Copy Debug Info"
+msgstr "Kopiera felsökningsinformation"
+
+#: src/release_notes_editor/main.py:114
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/release_notes_editor/main.py:115
+msgid "About Release Notes Editor"
+msgstr "Om Redigerare för versionsanteckningar"
+
+#: src/release_notes_editor/main.py:128 src/release_notes_editor/main.py:310
+msgid "Editor"
+msgstr "Redigerare"
+
+#: src/release_notes_editor/main.py:145
+msgid "Preview"
+msgstr "Förhandsvisa"
+
+#: src/release_notes_editor/main.py:166
+msgid "Ready"
+msgstr "Redo"
+
+#: src/release_notes_editor/main.py:181
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/release_notes_editor/main.py:187
+msgid "Welcome to Release Notes Editor"
+msgstr "Välkommen till Redigerare för versionsanteckningar"
+
+#: src/release_notes_editor/main.py:188
+msgid ""
+"Create release notes easily.\n"
+"\n"
+"✓ Release note templates\n"
+"✓ Markdown editor with preview\n"
+"✓ Version tracking\n"
+"✓ Translation-ready export\n"
+"✓ Multiple output formats"
+msgstr ""
+"Skapa versionsanteckningar enkelt.\n"
+"\n"
+"✓ Mallar för versionsanteckningar\n"
+"✓ Markdown-redigerare med förhandsgranskning\n"
+"✓ Versionsspårning\n"
+"✓ Export redo för översättning\n"
+"✓ Flera utdataformat"
+
+#: src/release_notes_editor/main.py:195
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: src/release_notes_editor/main.py:219
+msgid "New Release Notes"
+msgstr "Ny versionsanteckning"
+
+#: src/release_notes_editor/main.py:220
+msgid "Choose a template"
+msgstr "Välj en mall"
+
+#: src/release_notes_editor/main.py:221
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: src/release_notes_editor/main.py:222
+msgid "Standard"
+msgstr "Standard"
+
+#: src/release_notes_editor/main.py:223
+msgid "Security Advisory"
+msgstr "Säkerhetsmeddelande"
+
+#: src/release_notes_editor/main.py:236
+msgid "Open Release Notes"
+msgstr "Öppna versionsanteckningar"
+
+#: src/release_notes_editor/main.py:257
+#, python-format
+msgid "%(time)s — Saved"
+msgstr "%(time)s — Sparades"
+
+#: src/release_notes_editor/main.py:260
+msgid "Save Release Notes"
+msgstr "Spara versionsanteckningar"
+
+#: src/release_notes_editor/main.py:311
+msgid "Auto-save"
+msgstr "Automatisk sparning"
+
+#: src/release_notes_editor/main.py:313
+msgid "Live preview"
+msgstr "Direkt förhandsvisning"
+
+#: src/release_notes_editor/main.py:333
+msgid "Debug info copied"
+msgstr "Felsökningsinformation kopierades"
+
+#: src/release_notes_editor/main.py:339
+msgid "General"
+msgstr "Allmänt"
+
+#: src/release_notes_editor/main.py:341
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/release_notes_editor/main.py:342
+msgid "Keyboard shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/release_notes_editor/main.py:359
+msgid ""
+"Write and review release notes with template support and translation "
+"integration."
+msgstr ""
+"Skriv och granska versionsanteckningar med mallstöd och integrerad "
+"översättning."
