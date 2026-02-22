@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[o:danielnylander:p:release-notes-editor:r:release-notes-editor-pot]
+file_filter = po/<lang>.po
+source_file = po/release-notes-editor.pot
+source_lang = en
+type = PO

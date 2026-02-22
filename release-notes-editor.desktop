@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=release-notes-editor
+Comment=GTK4 release notes editor with templates and translation support
+Exec=release-notes-editor
+Icon=applications-other-symbolic
+Terminal=false
+Categories=Development;

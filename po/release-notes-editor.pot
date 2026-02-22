@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the release-notes-editor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: release-notes-editor 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/release_notes_editor/main.py:84 src/release_notes_editor/main.py:93
+#: src/release_notes_editor/main.py:352
+msgid "Release Notes Editor"
+msgstr ""
+
+#: src/release_notes_editor/main.py:98
+msgid "New from template"
+msgstr ""
+
+#: src/release_notes_editor/main.py:102
+msgid "Open"
+msgstr ""
+
+#: src/release_notes_editor/main.py:106
+msgid "Save"
+msgstr ""
+
+#: src/release_notes_editor/main.py:112 src/release_notes_editor/main.py:307
+msgid "Settings"
+msgstr ""
+
+#: src/release_notes_editor/main.py:113
+msgid "Copy Debug Info"
+msgstr ""
+
+#: src/release_notes_editor/main.py:114
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: src/release_notes_editor/main.py:115
+msgid "About Release Notes Editor"
+msgstr ""
+
+#: src/release_notes_editor/main.py:128 src/release_notes_editor/main.py:310
+msgid "Editor"
+msgstr ""
+
+#: src/release_notes_editor/main.py:145
+msgid "Preview"
+msgstr ""
+
+#: src/release_notes_editor/main.py:166
+msgid "Ready"
+msgstr ""
+
+#: src/release_notes_editor/main.py:181
+msgid "Welcome"
+msgstr ""
+
+#: src/release_notes_editor/main.py:187
+msgid "Welcome to Release Notes Editor"
+msgstr ""
+
+#: src/release_notes_editor/main.py:188
+msgid ""
+"Create release notes easily.\n"
+"\n"
+"✓ Release note templates\n"
+"✓ Markdown editor with preview\n"
+"✓ Version tracking\n"
+"✓ Translation-ready export\n"
+"✓ Multiple output formats"
+msgstr ""
+
+#: src/release_notes_editor/main.py:195
+msgid "Get Started"
+msgstr ""
+
+#: src/release_notes_editor/main.py:219
+msgid "New Release Notes"
+msgstr ""
+
+#: src/release_notes_editor/main.py:220
+msgid "Choose a template"
+msgstr ""
+
+#: src/release_notes_editor/main.py:221
+msgid "Cancel"
+msgstr ""
+
+#: src/release_notes_editor/main.py:222
+msgid "Standard"
+msgstr ""
+
+#: src/release_notes_editor/main.py:223
+msgid "Security Advisory"
+msgstr ""
+
+#: src/release_notes_editor/main.py:236
+msgid "Open Release Notes"
+msgstr ""
+
+#: src/release_notes_editor/main.py:257
+#, python-format
+msgid "%(time)s — Saved"
+msgstr ""
+
+#: src/release_notes_editor/main.py:260
+msgid "Save Release Notes"
+msgstr ""
+
+#: src/release_notes_editor/main.py:311
+msgid "Auto-save"
+msgstr ""
+
+#: src/release_notes_editor/main.py:313
+msgid "Live preview"
+msgstr ""
+
+#: src/release_notes_editor/main.py:333
+msgid "Debug info copied"
+msgstr ""
+
+#: src/release_notes_editor/main.py:339
+msgid "General"
+msgstr ""
+
+#: src/release_notes_editor/main.py:341
+msgid "Quit"
+msgstr ""
+
+#: src/release_notes_editor/main.py:342
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: src/release_notes_editor/main.py:359
+msgid ""
+"Write and review release notes with template support and translation "
+"integration."
+msgstr ""
