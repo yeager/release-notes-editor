@@ -1,0 +1,23 @@
+Source: release-notes-editor
+Section: devel
+Priority: optional
+Maintainer: Daniel Nylander <daniel@danielnylander.se>
+Build-Depends: debhelper-compat (= 13),
+               dh-python,
+               python3-all,
+               python3-setuptools,
+               pybuild-plugin-pyproject
+Standards-Version: 4.7.0
+Homepage: https://github.com/yeager/release-notes-editor
+Vcs-Git: https://github.com/yeager/release-notes-editor.git
+Vcs-Browser: https://github.com/yeager/release-notes-editor
+
+Package: release-notes-editor
+Architecture: all
+Depends: ${python3:Depends},
+         ${misc:Depends},
+         python3-gi,
+         gir1.2-gtk-4.0,
+         gir1.2-adw-1
+Description: GTK4 release notes editor with templates
+ GTK4/Adwaita editor for creating and managing release notes\n with templates and translation support. Supports multiple output\n formats and integrates with translation workflows.
